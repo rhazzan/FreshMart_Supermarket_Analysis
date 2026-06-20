@@ -1,0 +1,92 @@
+🛒 FRESHMART SUPERSTORES — INTERNAL MEMO
+From: Chidi Okafor, CEO & Head of Retail Operations
+To: Rabiu Hassan
+Date: Monday, 9 June 2024
+Classification: Internal — Confidential
+
+Welcome to FreshMart. I'll be direct with you — we don't have time for long onboarding. You're joining at a critical moment and I need your brain working from Day One.
+Here's your first assignment.
+
+PART 1 — BUSINESS CONTEXT
+Let me give you the full picture.
+FreshMart Superstores has been operating since 2016. We started with two branches in Lagos and have grown to 12 branches across six states — Lagos, Abuja, Rivers, Oyo, Kano, and Enugu. We employ over 1,400 staff and serve approximately 85,000 unique customers per month.
+The problem is this: we are growing in footprint but not in profitability.
+In the last board meeting, our CFO flagged that while our total revenue is up year-on-year, our profit margins have been thinning — and we don't fully understand why. We have 12 branches behaving differently and we're not sure which ones are pulling their weight and which ones are quietly draining us.
+We recently invested ₦180 million expanding our Kano and Ikorodu branches. Early returns are... underwhelming. The board wants answers before we approve the next round of capital expenditure in Q3.
+On top of that, our Head of Merchandising resigned last month, which means product category decisions are currently being made without proper data backing. We have too much working capital tied up in slow-moving products in some branches, while other branches are running out of high-margin items.
+Leadership has three core concerns right now:
+
+Which branches are genuinely profitable and which are surviving on volume alone?
+Which product categories are driving our margins — and which are eroding them?
+Do we understand our customers well enough to stock the right products in the right branches?
+
+That's where you come in.
+
+PART 2 — YOUR ASSIGNMENT
+Project Title: FreshMart H1 2024 Sales Performance & Profitability Deep-Dive
+You have been given access to our raw transactional sales dataset covering January 2023 through June 2024 — 18 months of data across all 12 branches. This is real data pulled from our POS and transaction system. I'll warn you now: it is not clean. Our IT team has flagged some data integrity issues. Part of your job is identifying and documenting those before you do any analysis.
+Your assignment covers the following analytical areas:
+
+Sales & Revenue Performance — How have we performed overall and by branch?
+Profitability Analysis — Where are we actually making money?
+Product Category Performance — What's selling well and what's sitting?
+Customer Behavior — Who is buying what, where, and how?
+Seasonal & Time Trends — Are there patterns we should be planning around?
+Payment Method Trends — Is our POS infrastructure aligned with how customers are paying?
+
+
+PART 3 — DELIVERABLES
+I expect the following from you by Friday, 14 June 2024 (end of day):
+#DeliverableFormat1Data Quality ReportWritten summary (1 page) — issues found, how you handled them2Executive SummaryMax 1 page, written for non-technical board members3KPI DashboardVisual — key metrics at a glance4Branch Performance AnalysisRankings, comparisons, profitability breakdown5Product Category AnalysisRevenue, margin, and volume by category6Customer Segmentation InsightsAge, gender, payment behavior7Seasonal Trend AnalysisMonthly/quarterly patterns8Top 5 Business RecommendationsActionable, data-backed, prioritized
+You can deliver this as a Python notebook, a dashboard, or slides — whatever lets the insights speak clearly. I care about substance over aesthetics, but I also need things my board can actually read.
+
+PART 4 — SUCCESS CRITERIA
+Your work will be evaluated on:
+
+Accuracy — Are your numbers correct? I will spot-check your figures.
+Clarity — Can a non-technical stakeholder read your executive summary and understand the business situation?
+Depth — Did you go beyond surface-level charts? Did you ask "why"?
+Data Integrity — Did you identify and handle the quality issues properly, or did you just run analysis on dirty data?
+Recommendations — Are your suggestions specific, justified, and actionable? "Improve marketing" is not a recommendation. "Reallocate the Ikorodu Baby Products shelf space to Grains & Staples based on category margin data" is.
+Commercial Awareness — Do you understand that behind every data point is a business decision with real money attached?
+
+A weak analysis that's well-presented is worse than a strong analysis with a plain chart. Don't reverse that.
+
+PART 5 — STAKEHOLDER QUESTIONS
+The following questions came directly from leadership. Your analysis must address all of them:
+
+Which 3 branches generated the highest total profit in this period — and is their profitability driven by volume or by margin?
+We invested heavily in Kano and Ikorodu. Are those branches performing at a level that justifies the investment?
+Which product category has the highest profit margin percentage, and is it consistent across all branches?
+Are there any product categories where we are consistently losing money (negative profit)?
+What is our best-performing month across the dataset, and what appears to be driving that spike?
+How does customer payment behavior differ across branches — and does this indicate any infrastructure gaps?
+What age group and gender drives the most revenue for us — and does that vary significantly by branch?
+Are there branches where a single product category is dangerously dominant (over-reliance risk)?
+What does our revenue trend look like across the 18 months — are we growing, flat, or declining?
+If you could shut down or restructure one branch based purely on the data, which would it be and why?
+
+Question 10 is deliberately uncomfortable. I want to see how you handle it.
+
+PART 6 — FOLLOW-UP SIMULATION
+Once you've submitted your work, we'll have a 30-minute review session. I will ask you to defend your numbers, challenge your recommendations, and walk me through your methodology. Expect questions like:
+
+"You said Ikorodu is underperforming — but have you accounted for the fact that it's a newer market? How do you separate structural weakness from early-stage growth?"
+
+
+"Your recommendation on Baby Products — what's the confidence level? How many transactions is that based on?"
+
+
+"The seasonal spike in December — is that FreshMart-specific or just a Nigeria-wide retail trend? How do you tell the difference from this dataset alone?"
+
+I push back on everything. That's not personal — that's how good analysis gets sharpened.
+
+YOUR DATASET
+Your CSV file is attached above — 7,508 transactions, January 2023 to June 2024, across all 12 branches. It contains 13 columns as described in your briefing.
+Heads up: I know for a fact there are data quality issues in there. I will not tell you what they are — finding them is part of the job.
+
+Start with the data quality check. Everything else follows from having clean data.
+Come back to me with questions only after you've explored the dataset yourself. I have no patience for questions that a 10-minute data exploration would have answered.
+Good luck.
+— Chidi Okafor
+CEO & Head of Retail Operations, FreshMart Superstores
